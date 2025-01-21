@@ -11,4 +11,8 @@ In this project, I used vegetation indices derived from both Sentinel-1 and Sent
 - **Visualization**: Utilized **geemap** for interactive visualizations.
 
 
+<p align="center">
+    <img src="crop.png" width="600px">
+</p>
+
 
