@@ -15,4 +15,8 @@ In this project, I used vegetation indices derived from both Sentinel-1 and Sent
     <img src="crop.png" width="600px">
 </p>
 
+<p align="center">
+    <img src="features.png" width="600px">
+</p>
+
 
